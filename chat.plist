@@ -21,7 +21,7 @@
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>cechat.future.cn.echat</string>
+    <string>com.TRDA.DValley</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
     <string>1.0.0</string>
